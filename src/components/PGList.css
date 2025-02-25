@@ -1,0 +1,22 @@
+.pg-list {
+    width: 80%;
+    margin: 0 auto;
+    text-align: left;
+    padding: 20px;
+    background-color: #ffffff;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    border-radius: 10px;
+}
+
+.search-bar {
+    margin-bottom: 20px;
+}
+
+.pg-details {
+    margin-top: 20px;
+    text-align: left;
+}
+
+.pg-details button {
+    margin: 20px 0;
+}
